@@ -1,7 +1,6 @@
 # Datadog Agent Configuration
 # For AWS EC2 Ubuntu 26.04 Monitoring
 
-api_key: YOUR_API_KEY_HERE
 site: datadoghq.com
 
 # Hostname
